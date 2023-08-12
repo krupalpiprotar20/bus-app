@@ -1,0 +1,19 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; background-color: rgb(215, 250, 246);}
+.heading{
+    color: rgb(7, 7, 7);
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 50px 0;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+.imageStyle{
+    display: flex;
+    justify-content: center;
+   
+}
+.imageStyle img{
+    width: 400px;
+    height: 250px;
+
+}
